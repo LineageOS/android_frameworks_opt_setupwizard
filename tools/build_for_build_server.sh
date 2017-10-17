@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/sh
 
 export TARGET_PRODUCT="full"
 export TARGET_BUILD_VARIANT="userdebug"
